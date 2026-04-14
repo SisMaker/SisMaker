@@ -50,15 +50,15 @@
 - `gmTool` — 游戏GM工具
 
 </td>
-<td valign="top" width="35%">
+<td valign="top" width="30%">
 
 ### ⚙️ 技术栈
 
 - Erlang / OTP
 - C/C++/Go
 - Game Server
-- Distributed Systems
-- Protocol  Generation
+- Distributed   Systems
+- Protocol    Generation
 - Hot Reload
 - Networking
 
