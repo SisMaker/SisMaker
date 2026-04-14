@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td valign="top" width="35%">
+<td valign="top" width="34%">
 
 ### 👨‍💻 关于我
 
@@ -50,7 +50,7 @@
 - `gmTool` — 游戏GM工具
 
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="27%">
 
 ### ⚙️ 技术栈
 
