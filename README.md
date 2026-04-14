@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td valign="top" width="35%">
+<td valign="top" width="38%">
 
 ### 👨‍💻 关于我
 
