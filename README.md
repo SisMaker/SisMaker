@@ -58,7 +58,7 @@
 - C/C++/Go
 - Game Server
 - Distributed Systems
-- Protocol Generation
+- Protocol  Generation
 - Hot Reload
 - Networking
 
