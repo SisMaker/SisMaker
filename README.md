@@ -1,100 +1,88 @@
-<h1 align="center">Hi there 👋 I'm SisMaker</h1>
-<h3 align="center">Erlang/OTP · Game Backend · Distributed Systems</h3>
+<h1 align="center">Hi 👋 我是 SisMaker</h1>
+<p align="center">
+  专注 <b>Erlang/OTP</b> · <b>游戏后端</b> · <b>分布式系统</b>
+</p>
 
 <p align="center">
-  <a href="https://github.com/SisMaker">
-    <img src="https://img.shields.io/badge/GitHub-SisMaker-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Erlang%2FOTP-7A1FA2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-Game%20Server-0A192F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interest-Distributed%20Systems-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-SisMaker-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Erlang-OTP-7A1FA2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Game-Backend-0A192F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Distributed-Systems-00599C?style=flat-square" />
 </p>
 
 ---
 
-## 🧠 About Me
+<table>
+<tr>
+<td valign="top" width="50%">
 
-I’m a developer passionate about building:
+### 👨‍💻 About Me
 
-- **high-performance Erlang/OTP systems**
-- **online game backend frameworks**
-- **developer tools for productivity**
-- **protocol generators and config pipelines**
-- **reusable infrastructure for scalable services**
+- 长期专注 **游戏后端开发**
+- 偏向 **高并发 Erlang/OTP 系统**
+- 持续打磨 **协议 / 配置 / 热更新工具链**
+- 关注 **基础设施复用** 与 **工程效率**
 
-My main interests are centered around the ecosystem of:
+### 🌱 Current Focus
 
-- game server engineering
-- backend architecture
-- concurrency and fault tolerance
-- tools that improve iteration speed
-- storage/network/service integration
+- 游戏服务框架设计
+- 可复用 Erlang 组件
+- 分布式服务架构
+- 工程化与自动化工具
 
----
+</td>
+<td valign="top" width="50%">
 
-## ⚙️ Main Technical Directions
+### 🧩 Project Directions
 
-### 🎮 Game Server Frameworks
-Backend framework design for MMORPG / strategy / casual game scenarios.
+- `agw` — Erlang/OTP 游戏服务框架
+- `genCfgs` — 配置生成工具
+- `genProto` — 通信协议生成
+- `eSync` — 自动编译 / 热更新
+- `eLog` — Erlang 日志组件
+- `eArango` — ArangoDB 集成
 
-### 🔁 Hot Reload & Engineering Efficiency
-Automatic compile, reload, and development workflow optimization.
+### ⚙️ Tech Stack
 
-### 📦 Config / Protocol Generation
-Building tools for:
-- excel-to-config conversion
-- custom protocol generation
-- backend/frontend data synchronization
+`Erlang` `OTP` `Python` `Lua`  
+`Game Server` `Distributed Systems`  
+`Protocol Generation` `Hot Reload` `Networking`
 
-### 🧱 Infrastructure Components
-Reusable modules for:
-- logging
-- timers
-- queues
-- synchronization
-- networking
-- utility libraries
-
-### 🗄 Database Integration
-Exploring Erlang integration with systems like **ArangoDB**.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Project Keywords
+<table>
+<tr>
+<td valign="top" width="33%">
 
-`Erlang/OTP` `Game Server` `Distributed Systems` `Tooling` `Protocol Generation` `Hot Reload` `Logging` `Networking` `Config Pipeline` `ArangoDB`
+### 🎮 Backend
+面向 MMO / 卡牌 / 策略 / 休闲类项目的后端能力建设。
 
----
+</td>
+<td valign="top" width="33%">
 
-## 📌 Typical Project Directions
+### 🔧 Tooling
+配置生成、协议生成、自动编译、热更新与工程效率优化。
 
-- **agw** — Erlang/OTP-based game backend framework
-- **genCfgs** �� config generation toolkit
-- **genProto** — custom communication protocol generator
-- **eSync** — efficient automatic compile/reload tool
-- **eLog** — Erlang logging library
-- **eArango / erlArango** — ArangoDB driver integration
+</td>
+<td valign="top" width="33%">
 
----
+### 🚀 Infra
+日志、网络、同步、定时器、存储集成等基础模块沉淀。
 
-## 🌱 Ongoing Focus
-
-I’m currently continuing to improve my work in:
-
-- scalable backend design
-- reusable Erlang modules
-- engineering automation
-- game service infrastructure
-- database and communication abstractions
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Contact
+### 🤝 Contact
 
-- GitHub: **[@SisMaker](https://github.com/SisMaker)**
-
----
+- GitHub: [@SisMaker](https://github.com/SisMaker)
 
 <p align="center">
-  <i>Build stable systems. Create efficient tools. Power interesting game worlds.</i>
+  <i>Build stable systems, craft efficient tools, power interesting game worlds.</i>
 </p>
