@@ -3,15 +3,7 @@
   专注 <b>Erlang/OTP</b> · <b>游戏后端</b> · <b>分布式系统</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-SisMaker-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Erlang-OTP-7A1FA2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Game-Backend-0A192F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Distributed-Systems-00599C?style=flat-square" />
-</p>
-
 ---
-
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -40,7 +32,7 @@
 - `genProto` — 通信协议生成
 - `eSync` — 自动编译 / 热更新
 - `eLog` — Erlang 日志组件
-- `eArango` — ArangoDB 集成
+- `ePgdb` — Postgresql 集成
 
 ### ⚙️ Tech Stack
 
@@ -59,18 +51,21 @@
 <td valign="top" width="33%">
 
 ### 🎮 Backend
+
 面向 MMO / 卡牌 / 策略 / 休闲类项目的后端能力建设。
 
 </td>
 <td valign="top" width="33%">
 
 ### 🔧 Tooling
+
 配置生成、协议生成、自动编译、热更新与工程效率优化。
 
 </td>
 <td valign="top" width="33%">
 
 ### 🚀 Infra
+
 日志、网络、同步、定时器、存储集成等基础模块沉淀。
 
 </td>
