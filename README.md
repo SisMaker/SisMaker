@@ -74,10 +74,6 @@
 
 ---
 
-### 🤝 Contact
-
-- GitHub: [@SisMaker](https://github.com/SisMaker)
-
 <p align="center">
   <i>Build stable systems, craft efficient tools, power interesting game worlds.</i>
 </p>
