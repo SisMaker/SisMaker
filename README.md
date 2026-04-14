@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td valign="top" width="41%">
+<td valign="top" width="39%">
 
 ### 👨‍💻 关于我
 
@@ -31,7 +31,7 @@
 - 工程化与自动化工具
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="36%">
 
 ### 🧩 项目方向
 
