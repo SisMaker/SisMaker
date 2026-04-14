@@ -31,7 +31,7 @@
 - 工程化与自动化工具
 
 </td>
-<td valign="top" width="36%">
+<td valign="top" width="38%">
 
 ### 🧩 项目方向
 
